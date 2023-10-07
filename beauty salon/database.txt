@@ -1,0 +1,6 @@
+
+Employee name: eriz, Employee ID: 1, Designation: Makeup Artist, Salary: 35000.0
+Employee name: sara, Employee ID: 2, Designation: Hair Dresser, Salary: 25000.0
+Employee name: saroni, Employee ID: 3, Designation: Manager, Salary: 50000.0
+Customer Name: raisa, Serial Number: 1, Phone Number: 01879056789, Total Bill: 2700.0
+Customer Name: rinty, Serial Number: 2, Phone Number: 01765890456, Total Bill: 3500.0
